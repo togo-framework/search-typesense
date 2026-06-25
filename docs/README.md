@@ -22,9 +22,9 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `TYPESENSE_API_KEY"` |
-| `TYPESENSE_HOST"` |
-| `TYPESENSE_QUERY_BY"` |
+| `TYPESENSE_API_KEY` |
+| `TYPESENSE_HOST` |
+| `TYPESENSE_QUERY_BY` |
 
 ## Usage
 
